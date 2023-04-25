@@ -1,0 +1,10 @@
+ul li.checked{
+    text-decoration: line-through;
+}
+
+ul li span{
+    right: 0px;
+    width: 40px;
+    margin: 40px;
+    text-decoration: none;
+}
